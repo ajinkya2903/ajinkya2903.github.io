@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-Relevancy Classifier(/sample_page)
+Relevancy Classifier
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-Question Generation using T5 transformers(/pdf/sample_presentation.pdf)
+Question Generation using T5 transformers
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-Case Studies for Applied AI(http://example.com/)
+Case Studies for Applied AI
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
