@@ -3,9 +3,11 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Scientist 
   <br><br>
-  LinkedIN
+  I am currently working as Machine Learning Engineer at Digitalmain.I have an expertise on NLP domain.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ajinkya-mishrikotkar-a6594a144/">View My LinkedIn Profile</a> 
+  <br><br>
+  <a href="https://ajinkya29.medium.com/">View My Medium Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
