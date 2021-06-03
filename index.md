@@ -4,14 +4,14 @@
 
 ### Category Name 1 
 
-## Relevancy Classifier
+#### Relevancy Classifier
 
 
 ---
-## Question Generation using T5 transformers
+#### Question Generation using T5 transformers
 
 ---
-## Case Studies for Applied AI
+#### Case Studies for Applied AI
 
 ---
 
